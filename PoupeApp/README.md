@@ -1,2 +1,0 @@
-# PoupeApp
-Projeto Integrador Generation
